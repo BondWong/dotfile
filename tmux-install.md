@@ -6,6 +6,7 @@ cd ~/tmux-install
 
 ## Get the files
 curl -OL https://github.com/tmux/tmux/releases/download/2.3/tmux-2.3.tar.gz
+
 curl -OL https://github.com/libevent/libevent/releases/download/release-2.0.22-stable/libevent-2.0.22-stable.tar.gz
 
 ## Extract them 
